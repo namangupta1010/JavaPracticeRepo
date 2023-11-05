@@ -15,6 +15,8 @@ public class test {
 
         System.out.println("Hello from branch-1");
 
+        System.out.println("Hello from branch-1 - Commit-2");
+
 
     }
 }
