@@ -12,6 +12,10 @@ public class test {
 
                 System.out.println("Hey Naman");
 
+
+        System.out.println("Hello from branch-1");
+
+
     }
 }
 
